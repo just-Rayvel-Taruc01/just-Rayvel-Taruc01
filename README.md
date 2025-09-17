@@ -3,7 +3,7 @@
 **Aspiring Full-Stack Developer | IT Graduate | Cybersecurity Enthusiast**
 
 - 👀 Interested in Web Development, Cybersecurity, and building personal projects  
-- 🌱 Currently learning **Next.js**, **Tailwind CSS**, and **REST APIs**  
+- 🌱 Currently learning **Next.js**, **Tailwind CSS**, **REST APIs**, and **AI-Automation**  
 - 💻 Open to collaborating on open-source or student projects  
 - 📫 Reach me at: **rayvel.dev@gmail.com**  
 - ⚡ Fun fact: I enjoy tweaking UI and simulating networks in Packet Tracer  
