@@ -13,7 +13,7 @@
 ### 🚀 Featured Projects
 - [🌐 Portfolio Website](https://just-rayvel-taruc01.github.io) – Built with Next.js + Tailwind CSS  
 - [🐾 Pet Adoption Center](https://github.com/just-Rayvel-Taruc01/pet-adoption) – Node.js, Express, MySQL  
-- [🔐 AutoCompost IoT Project](#) – Arduino + sensors + Python (demo repo coming soon)  
+- [🔐 AutoCompost IoT Project](https://github.com/just-Rayvel-Taruc01/Arduino_Projects) – Arduino + sensors + Python (demo repo coming soon)  
 
 ---
 
